@@ -79,11 +79,6 @@ function SignIn() {
         // console.log('Failed:', errorInfo);
     };
 
-    // function validate(e){
-    //     const password = e.target.value;
-       
-    // };
-
     // const validateMessages = {
     //     required: '${label} is required!',
     //     types: {
