@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="849.24" height="383" viewBox="0 0 849.24 383">
+    <defs>
+        <filter id="prefix__Rectangle_1832" width="114" height="97" x="168.521" y="137" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .prefix__cls-3{font-size:15px}.prefix__cls-10,.prefix__cls-11{font-family:OpenSans-SemiBold,Open Sans;font-weight:600}.prefix__cls-3{font-family:OpenSans,Open Sans}.prefix__cls-5{fill:none;stroke:#707070;stroke-dasharray:1 2}.prefix__cls-10{fill:#1997fc;font-size:11px}.prefix__cls-11{fill:#707070;font-size:13px}
+        </style>
+    </defs>
+    <g id="prefix__Group_3538" data-name="Group 3538" transform="translate(-222.479 -495)">
+        <text id="prefix___266_51" data-name="$266.51" font-family="OpenSans-SemiBold, Open Sans" font-size="15px" font-weight="600" transform="translate(229 538)">
+            <tspan x="0" y="0">$266.51</tspan>
+        </text>
+        <text id="prefix___25_11_10_40_" fill="#00b569" data-name="+$25.11 (+10.40%)" font-family="OpenSans-SemiBold, Open Sans" font-size="15px" font-weight="600" transform="translate(448 538)">
+            <tspan x="0" y="0">+$25.11 (+10.40%)</tspan>
+        </text>
+        <text id="prefix__Current_Value" class="prefix__cls-3" data-name="Current Value" transform="translate(229 511)">
+            <tspan x="0" y="0">Current Value</tspan>
+        </text>
+        <text id="prefix__Past_1_week_" class="prefix__cls-3" data-name="Past 1 week" transform="translate(448 511)">
+            <tspan x="0" y="0">Past 1 week</tspan>
+        </text>
+        <path id="prefix__Line_534" fill="none" stroke="#707070" d="M0 0L849.24 0" data-name="Line 534" opacity="0.68" transform="translate(222.479 560.584)"/>
+        <path id="prefix__Path_2172" d="M1024 6205.814v267.821" class="prefix__cls-5" data-name="Path 2172" transform="translate(-745.688 -5620.311)"/>
+        <ellipse id="prefix__Ellipse_267" cx="4" cy="3" fill="#1997fc" data-name="Ellipse 267" rx="4" ry="3" transform="translate(445 726)"/>
+        <path id="prefix__Line_535" fill="none" stroke="#707070" d="M0 0L794.536 0" data-name="Line 535" transform="translate(277.183 853.326)"/>
+        <path id="prefix__Path_2173" d="M1024 6205.814v267.821" class="prefix__cls-5" data-name="Path 2173" transform="translate(.566 -5620.311)"/>
+        <g filter="url(#prefix__Rectangle_1832)" transform="translate(222.48 495)">
+            <rect id="prefix__Rectangle_1832-2" width="96" height="79" fill="#fff" data-name="Rectangle 1832" rx="7" transform="translate(177.52 143)"/>
+        </g>
+        <g id="prefix__Group_3537" data-name="Group 3537" transform="translate(409.656 646.274)">
+            <text id="prefix___262_40" fill="#1997fc" data-name="$262.40" font-family="OpenSans-SemiBold, Open Sans" font-size="15px" font-weight="600" transform="translate(10.344 56.726)">
+                <tspan x="0" y="0">$262.40</tspan>
+            </text>
+            <text id="prefix___04-Apr" class="prefix__cls-10" data-name="04-Apr" transform="translate(20.344 32.726)">
+                <tspan x="0" y="0">04-Apr</tspan>
+            </text>
+            <text id="prefix__Current_Value-2" class="prefix__cls-10" data-name="Current Value" transform="translate(.344 11.726)">
+                <tspan x="0" y="0">Current Value</tspan>
+            </text>
+        </g>
+        <text id="prefix___03-Apr" class="prefix__cls-11" data-name="03-Apr" transform="translate(266 874)">
+            <tspan x="0" y="0">03-Apr</tspan>
+        </text>
+        <text id="prefix___10-Apr" class="prefix__cls-11" data-name="10-Apr" transform="translate(1003 874)">
+            <tspan x="0" y="0">10-Apr</tspan>
+        </text>
+        <text id="prefix___260" class="prefix__cls-11" data-name="$260" transform="translate(240 697)">
+            <tspan x="0" y="0">$260</tspan>
+        </text>
+        <text id="prefix___270" class="prefix__cls-11" data-name="$270" transform="translate(240 618)">
+            <tspan x="0" y="0">$270</tspan>
+        </text>
+        <text id="prefix___250" class="prefix__cls-11" data-name="$250" transform="translate(270 775)">
+            <tspan x="-29.682" y="0">$250</tspan>
+        </text>
+        <text id="prefix___240" class="prefix__cls-11" data-name="$240" transform="translate(270 847)">
+            <tspan x="-29.682" y="0">$240</tspan>
+        </text>
+        <path id="prefix__Path_2174" fill="none" stroke="#1997fc" stroke-width="4px" d="M13258.219 8174.833s39.831 30.984 64.7 29.61 35.182-13.43 41.146-29.61 28.91-72.757 68.034-86.083 253.829-10.075 290.83-43.809 300.117-68.26 300.117-68.26" data-name="Path 2174" transform="translate(-12973.453 -7354.914)"/>
+    </g>
+</svg>

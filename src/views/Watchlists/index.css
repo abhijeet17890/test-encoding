@@ -1,0 +1,38 @@
+ .option_search_bar{
+    position: relative;
+ }
+ .search_list{
+    position: absolute;
+     list-style-type: none;
+     background-color: white;
+     padding: 0px;
+     padding: 10px;
+     z-index: 9;
+     border-radius: 4px;
+     border: 1px solid #d9d9d9;
+     border-top-left-radius: 0px;
+     border-top-right-radius: 0px;
+     box-shadow: 0 3px 6px -4px rgba(0, 0, 0, 0.12), 0 6px 16px 0 rgba(0, 0, 0, 0.08), 0 9px 28px 8px rgba(0, 0, 0, 0.05);
+ }
+ .search_list li{
+    padding: 10px 0;
+  }
+ 
+ .search_dropdown .ant-select-item-group{
+    display: none;
+ }
+ .search_dropdown .ant-select-item{
+    padding: 10px 12px;
+    font-size: 15px;
+ }
+ .search_dropdown .ant-btn{
+    background-color: transparent;
+ }
+ .search_dropdown .ant-btn:hover{
+    background-color: transparent;
+ }
+ 
+  @keyframes progressAnimation {
+    0%   { width: 5%; background-color: #F9BCCA;}
+    100% { width: 85%; background-color: #EF476F; }
+  }
